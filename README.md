@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sinendira/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sinendira/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/sinendira/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/sinendira/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@
 | [0010-regular-expression-matching](https://github.com/sinendira/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/sinendira/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sinendira/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sinendira/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sinendira/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sinendira/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
