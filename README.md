@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/sinendira/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sinendira/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinendira/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sinendira/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0016-3sum-closest](https://github.com/sinendira/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/sinendira/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sinendira/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/sinendira/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
