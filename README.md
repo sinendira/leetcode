@@ -75,6 +75,7 @@
 | [0066-plus-one](https://github.com/sinendira/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +264,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
