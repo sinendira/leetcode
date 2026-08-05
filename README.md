@@ -72,6 +72,7 @@
 | [0060-permutation-sequence](https://github.com/sinendira/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sinendira/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +104,7 @@
 | [0049-group-anagrams](https://github.com/sinendira/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/sinendira/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0065-valid-number](https://github.com/sinendira/leetcode/tree/main/0065-valid-number/) | Hard |
+| [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sinendira/leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +244,7 @@
 | [0043-multiply-strings](https://github.com/sinendira/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/sinendira/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
