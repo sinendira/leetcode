@@ -36,6 +36,7 @@
 | [0059-spiral-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0066-plus-one](https://github.com/sinendira/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0050-powx-n](https://github.com/sinendira/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/sinendira/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0066-plus-one](https://github.com/sinendira/leetcode/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
