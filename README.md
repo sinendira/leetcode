@@ -110,6 +110,7 @@
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/sinendira/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0071-simplify-path](https://github.com/sinendira/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0072-edit-distance](https://github.com/sinendira/leetcode/tree/main/0072-edit-distance/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/sinendira/leetcode/tree/main/0072-edit-distance/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
