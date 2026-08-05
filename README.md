@@ -35,6 +35,7 @@
 | [0057-insert-interval](https://github.com/sinendira/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@
 | [0055-jump-game](https://github.com/sinendira/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@
 | [0054-spiral-matrix](https://github.com/sinendira/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/sinendira/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/sinendira/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
