@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sinendira/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0024-swap-nodes-in-pairs](https://github.com/sinendira/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sinendira/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sinendira/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/sinendira/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
