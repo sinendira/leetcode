@@ -67,6 +67,7 @@
 | [0048-rotate-image](https://github.com/sinendira/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/sinendira/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/sinendira/leetcode/tree/main/0060-permutation-sequence/) | Hard |
+| [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [0045-jump-game-ii](https://github.com/sinendira/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/sinendira/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/sinendira/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +236,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sinendira/leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
