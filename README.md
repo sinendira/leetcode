@@ -74,6 +74,7 @@
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/sinendira/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sinendira/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sinendira/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sinendira/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,4 +258,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/sinendira/leetcode/tree/main/0062-unique-paths/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
