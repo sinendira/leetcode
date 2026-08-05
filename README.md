@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/sinendira/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sinendira/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/sinendira/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/sinendira/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sinendira/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/sinendira/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@
 | [0042-trapping-rain-water](https://github.com/sinendira/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/sinendira/leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/sinendira/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/sinendira/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
