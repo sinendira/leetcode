@@ -27,6 +27,7 @@
 | [0047-permutations-ii](https://github.com/sinendira/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/sinendira/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sinendira/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/sinendira/leetcode/tree/main/0051-n-queens/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@
 | [0040-combination-sum-ii](https://github.com/sinendira/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/sinendira/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/sinendira/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/sinendira/leetcode/tree/main/0051-n-queens/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +195,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0051-n-queens](https://github.com/sinendira/leetcode/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
