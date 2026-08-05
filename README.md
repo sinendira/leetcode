@@ -17,6 +17,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/sinendira/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/sinendira/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/sinendira/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sinendira/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sinendira/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/sinendira/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +121,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sinendira/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +154,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/sinendira/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/sinendira/leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
