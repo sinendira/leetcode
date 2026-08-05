@@ -1,20 +1,17 @@
 class Solution:
     def minPathSum(self, grid: List[List[int]]) -> int:
-        m=len(grid)
-        n=len(grid[0])
-        dp=[[-1]*n for i in range(m)]
-
-        def fun_dp(i,j):
-            if(dp[i][j]!=-1):
-                return dp[i][j]
-            if(i==0 and j==0):
-                return grid[0][0]
-            if(i<0 or j<0):
-                return float('inf')
-            up=grid[i][j]+fun_dp(i-1,j)
-            left=grid[i][j]+fun_dp(i,j-1)
-            dp[i][j]= min(up,left)
-            return dp[i][j]
-        
-        return fun_dp(m-1,n-1)
-                
+        row,column=len(grid),len(grid[0])
+        dp=[[0 for _ in range(column)] for _ in range(row)]
+        dp[0][0]=grid[0][0]
+        for pos_i in range(row):
+            for pos_j in range(column):
+                if pos_i==0 and pos_j==0:
+                    pass
+                elif pos_i==0:
+                    dp[pos_i][pos_j]=grid[pos_i][pos_j]+dp[pos_i][pos_j-1]
+                elif pos_j==0:        
+                    dp[pos_i][pos_j]=grid[pos_i][pos_j]+dp[pos_i-1][pos_j]
+                else:
+                    min_val=min(dp[pos_i-1][pos_j],dp[pos_i][pos_j-1])
+                    dp[pos_i][pos_j]=grid[pos_i][pos_j]+min_val
+        return dp[row-1][column-1]            
