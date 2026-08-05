@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/sinendira/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sinendira/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/sinendira/leetcode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/sinendira/leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@
 | [0018-4sum](https://github.com/sinendira/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/sinendira/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/sinendira/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/sinendira/leetcode/tree/main/0056-merge-intervals/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +221,8 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/sinendira/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/sinendira/leetcode/tree/main/0054-spiral-matrix/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/sinendira/leetcode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
