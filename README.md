@@ -68,6 +68,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/sinendira/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/sinendira/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sinendira/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/sinendira/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
