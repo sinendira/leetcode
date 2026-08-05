@@ -59,6 +59,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sinendira/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sinendira/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sinendira/leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/sinendira/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +90,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sinendira/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/sinendira/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/sinendira/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +133,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/sinendira/leetcode/tree/main/0029-divide-two-integers/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sinendira/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sinendira/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
