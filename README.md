@@ -114,6 +114,7 @@
 | [0143-reorder-list](https://github.com/sinendira/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/sinendira/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0147-insertion-sort-list](https://github.com/sinendira/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +233,7 @@
 | [0141-linked-list-cycle](https://github.com/sinendira/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/sinendira/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/sinendira/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -296,6 +299,7 @@
 | [0075-sort-colors](https://github.com/sinendira/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/sinendira/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/sinendira/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
+| [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -565,4 +569,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sinendira/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
