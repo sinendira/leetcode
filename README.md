@@ -136,6 +136,7 @@
 | [0147-insertion-sort-list](https://github.com/sinendira/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sinendira/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/sinendira/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +176,7 @@
 | [0050-powx-n](https://github.com/sinendira/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/sinendira/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/sinendira/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/sinendira/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
