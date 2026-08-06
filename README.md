@@ -154,6 +154,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/sinendira/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sinendira/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/sinendira/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/sinendira/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
