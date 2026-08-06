@@ -78,6 +78,7 @@
 | [0179-largest-number](https://github.com/sinendira/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sinendira/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/sinendira/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +315,7 @@
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/sinendira/leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sinendira/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
