@@ -687,6 +687,7 @@
 | [0184-department-highest-salary](https://github.com/sinendira/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/sinendira/leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 | [0196-delete-duplicate-emails](https://github.com/sinendira/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/sinendira/leetcode/tree/main/0197-rising-temperature/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
