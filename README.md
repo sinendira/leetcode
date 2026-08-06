@@ -355,6 +355,7 @@
 | [0100-same-tree](https://github.com/sinendira/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/sinendira/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sinendira/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/sinendira/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +377,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sinendira/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/sinendira/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/sinendira/leetcode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0110-balanced-binary-tree](https://github.com/sinendira/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
