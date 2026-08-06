@@ -150,6 +150,7 @@
 | [0149-max-points-on-a-line](https://github.com/sinendira/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/sinendira/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/sinendira/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +204,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sinendira/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0165-compare-version-numbers](https://github.com/sinendira/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/sinendira/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/sinendira/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
