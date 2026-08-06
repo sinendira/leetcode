@@ -143,6 +143,7 @@
 | [0091-decode-ways](https://github.com/sinendira/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/sinendira/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/sinendira/leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sinendira/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@
 | [0091-decode-ways](https://github.com/sinendira/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/sinendira/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0097-interleaving-string](https://github.com/sinendira/leetcode/tree/main/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sinendira/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
