@@ -249,6 +249,7 @@
 | [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/sinendira/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/sinendira/leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sinendira/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +402,7 @@
 | [0137-single-number-ii](https://github.com/sinendira/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/sinendira/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/sinendira/leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0191-number-of-1-bits](https://github.com/sinendira/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
