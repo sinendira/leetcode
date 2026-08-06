@@ -393,6 +393,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sinendira/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sinendira/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sinendira/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sinendira/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,6 +423,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sinendira/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sinendira/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sinendira/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sinendira/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +449,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sinendira/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sinendira/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sinendira/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0129-sum-root-to-leaf-numbers](https://github.com/sinendira/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
