@@ -65,6 +65,7 @@
 | [0136-single-number](https://github.com/sinendira/leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sinendira/leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +89,7 @@
 | [0133-clone-graph](https://github.com/sinendira/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sinendira/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +174,7 @@
 | [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/sinendira/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +251,7 @@
 | [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/sinendira/leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +271,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/sinendira/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +303,7 @@
 | [0113-path-sum-ii](https://github.com/sinendira/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +401,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
+| [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
