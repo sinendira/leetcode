@@ -73,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinendira/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sinendira/leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sinendira/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sinendira/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinendira/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sinendira/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sinendira/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/sinendira/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/sinendira/leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0165-compare-version-numbers](https://github.com/sinendira/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sinendira/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
