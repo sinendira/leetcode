@@ -160,6 +160,7 @@
 | [0125-valid-palindrome](https://github.com/sinendira/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/sinendira/leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sinendira/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sinendira/leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sinendira/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@
 | [0093-restore-ip-addresses](https://github.com/sinendira/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0113-path-sum-ii](https://github.com/sinendira/leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
