@@ -76,6 +76,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sinendira/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/sinendira/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@
 | [0115-distinct-subsequences](https://github.com/sinendira/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/sinendira/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/sinendira/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +467,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sinendira/leetcode/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sinendira/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/sinendira/leetcode/tree/main/0127-word-ladder/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,4 +476,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0126-word-ladder-ii](https://github.com/sinendira/leetcode/tree/main/0126-word-ladder-ii/) | Hard |
+| [0127-word-ladder](https://github.com/sinendira/leetcode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
