@@ -670,4 +670,5 @@
 | [0182-duplicate-emails](https://github.com/sinendira/leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/sinendira/leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/sinendira/leetcode/tree/main/0184-department-highest-salary/) | Medium |
+| [0185-department-top-three-salaries](https://github.com/sinendira/leetcode/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
