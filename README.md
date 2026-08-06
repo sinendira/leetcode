@@ -80,6 +80,7 @@
 | [0189-rotate-array](https://github.com/sinendira/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/sinendira/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/sinendira/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sinendira/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -721,4 +723,24 @@
 | [0193-valid-phone-numbers](https://github.com/sinendira/leetcode/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0194-transpose-file](https://github.com/sinendira/leetcode/tree/main/0194-transpose-file/) | Medium |
 | [0195-tenth-line](https://github.com/sinendira/leetcode/tree/main/0195-tenth-line/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
