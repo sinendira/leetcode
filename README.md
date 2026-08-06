@@ -54,6 +54,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sinendira/leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/sinendira/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sinendira/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/sinendira/leetcode/tree/main/0120-triangle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +216,7 @@
 | [0115-distinct-subsequences](https://github.com/sinendira/leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/sinendira/leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sinendira/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0120-triangle](https://github.com/sinendira/leetcode/tree/main/0120-triangle/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
