@@ -91,6 +91,7 @@
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/sinendira/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sinendira/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sinendira/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/sinendira/leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/sinendira/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sinendira/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@
 | [0088-merge-sorted-array](https://github.com/sinendira/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sinendira/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/sinendira/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sinendira/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,4 +540,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/sinendira/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/sinendira/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
