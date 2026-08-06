@@ -67,6 +67,7 @@
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0149-max-points-on-a-line](https://github.com/sinendira/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@
 | [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/sinendira/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/sinendira/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@
 | [0143-reorder-list](https://github.com/sinendira/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sinendira/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
