@@ -72,6 +72,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sinendira/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sinendira/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/sinendira/leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +319,7 @@
 | [0088-merge-sorted-array](https://github.com/sinendira/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/sinendira/leetcode/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
+| [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -606,4 +608,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/sinendira/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
 <!---LeetCode Topics End-->
