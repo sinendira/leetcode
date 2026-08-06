@@ -48,6 +48,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sinendira/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/sinendira/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/sinendira/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/sinendira/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@
 | [0078-subsets](https://github.com/sinendira/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sinendira/leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/sinendira/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/sinendira/leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
+| [0090-subsets-ii](https://github.com/sinendira/leetcode/tree/main/0090-subsets-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
