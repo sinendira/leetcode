@@ -127,6 +127,7 @@
 | [0072-edit-distance](https://github.com/sinendira/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sinendira/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/sinendira/leetcode/tree/main/0079-word-search/) | Medium |
+| [0087-scramble-string](https://github.com/sinendira/leetcode/tree/main/0087-scramble-string/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@
 | [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/sinendira/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0085-maximal-rectangle](https://github.com/sinendira/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0087-scramble-string](https://github.com/sinendira/leetcode/tree/main/0087-scramble-string/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
