@@ -79,6 +79,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sinendira/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/sinendira/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +441,7 @@
 | [0079-word-search](https://github.com/sinendira/leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/sinendira/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/sinendira/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -511,6 +513,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/sinendira/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +605,7 @@
 | [0130-surrounded-regions](https://github.com/sinendira/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/sinendira/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -616,6 +620,7 @@
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sinendira/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/sinendira/leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
