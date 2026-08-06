@@ -91,6 +91,7 @@
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/sinendira/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +227,7 @@
 | [0077-combinations](https://github.com/sinendira/leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/sinendira/leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/sinendira/leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -248,6 +250,7 @@
 | [0029-divide-two-integers](https://github.com/sinendira/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/sinendira/leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/sinendira/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
