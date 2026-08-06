@@ -153,6 +153,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/sinendira/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sinendira/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/sinendira/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@
 | [0165-compare-version-numbers](https://github.com/sinendira/leetcode/tree/main/0165-compare-version-numbers/) | Medium |
 | [0166-fraction-to-recurring-decimal](https://github.com/sinendira/leetcode/tree/main/0166-fraction-to-recurring-decimal/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/sinendira/leetcode/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/sinendira/leetcode/tree/main/0171-excel-sheet-column-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
