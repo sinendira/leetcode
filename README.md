@@ -526,6 +526,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -618,6 +619,7 @@
 | [0133-clone-graph](https://github.com/sinendira/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -637,6 +639,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/sinendira/leetcode/tree/main/0133-clone-graph/) | Medium |
+| [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -747,4 +750,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
