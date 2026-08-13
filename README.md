@@ -86,6 +86,7 @@
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@
 | [0190-reverse-bits](https://github.com/sinendira/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sinendira/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +688,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -814,4 +817,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
