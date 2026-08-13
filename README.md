@@ -85,6 +85,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -471,6 +472,7 @@
 | [0085-maximal-rectangle](https://github.com/sinendira/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0130-surrounded-regions](https://github.com/sinendira/leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -681,6 +683,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -791,6 +794,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
