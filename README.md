@@ -83,6 +83,7 @@
 | [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@
 | [0076-minimum-window-substring](https://github.com/sinendira/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/sinendira/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,6 +373,7 @@
 | [0169-majority-element](https://github.com/sinendira/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/sinendira/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -686,6 +689,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -776,4 +780,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
