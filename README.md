@@ -179,6 +179,7 @@
 | [0189-rotate-array](https://github.com/sinendira/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/sinendira/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0319-bulb-switcher](https://github.com/sinendira/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -851,4 +852,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/sinendira/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
