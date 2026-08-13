@@ -250,6 +250,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/sinendira/leetcode/tree/main/0306-additive-number/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -477,6 +478,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sinendira/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sinendira/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -609,6 +611,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -640,6 +643,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
