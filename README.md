@@ -232,6 +232,7 @@
 | [0179-largest-number](https://github.com/sinendira/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/sinendira/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sinendira/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -538,6 +539,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -572,6 +574,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,6 +605,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/sinendira/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -631,6 +635,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -668,6 +673,7 @@
 | [0155-min-stack](https://github.com/sinendira/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
