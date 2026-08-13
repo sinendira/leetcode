@@ -91,6 +91,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,6 +274,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@
 | [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -718,6 +721,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/sinendira/leetcode/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -837,6 +841,7 @@
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -846,11 +851,13 @@
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -859,6 +866,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
