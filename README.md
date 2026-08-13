@@ -555,6 +555,7 @@
 | [0200-number-of-islands](https://github.com/sinendira/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -652,6 +653,7 @@
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +674,7 @@
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/sinendira/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -794,6 +797,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sinendira/leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
