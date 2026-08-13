@@ -238,6 +238,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0299-bulls-and-cows](https://github.com/sinendira/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0306-additive-number](https://github.com/sinendira/leetcode/tree/main/0306-additive-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -404,6 +405,7 @@
 | [0131-palindrome-partitioning](https://github.com/sinendira/leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0306-additive-number](https://github.com/sinendira/leetcode/tree/main/0306-additive-number/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
