@@ -89,6 +89,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -242,6 +243,7 @@
 | [0299-bulls-and-cows](https://github.com/sinendira/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/sinendira/leetcode/tree/main/0306-additive-number/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -446,6 +448,7 @@
 | [0190-reverse-bits](https://github.com/sinendira/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sinendira/leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/sinendira/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
