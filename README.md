@@ -92,6 +92,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
+| [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -377,6 +378,7 @@
 | [0135-candy](https://github.com/sinendira/leetcode/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/sinendira/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
