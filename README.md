@@ -181,6 +181,7 @@
 | [0202-happy-number](https://github.com/sinendira/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/sinendira/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0319-bulb-switcher](https://github.com/sinendira/leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0143-reorder-list](https://github.com/sinendira/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/sinendira/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sinendira/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
