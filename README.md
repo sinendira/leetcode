@@ -94,6 +94,7 @@
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +383,7 @@
 | [0179-largest-number](https://github.com/sinendira/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
+| [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -895,4 +897,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
