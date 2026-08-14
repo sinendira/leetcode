@@ -190,6 +190,7 @@
 | [0319-bulb-switcher](https://github.com/sinendira/leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0335-self-crossing](https://github.com/sinendira/leetcode/tree/main/0335-self-crossing/) | Hard |
+| [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@
 | [0203-remove-linked-list-elements](https://github.com/sinendira/leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sinendira/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +477,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/sinendira/leetcode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0318-maximum-product-of-word-lengths](https://github.com/sinendira/leetcode/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0338-counting-bits](https://github.com/sinendira/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
