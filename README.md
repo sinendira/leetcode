@@ -221,6 +221,7 @@
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/sinendira/leetcode/tree/main/0398-random-pick-index/) | Medium |
+| [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,6 +332,7 @@
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0374-guess-number-higher-or-lower](https://github.com/sinendira/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
