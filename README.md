@@ -284,6 +284,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sinendira/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sinendira/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -535,6 +536,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -637,6 +639,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/sinendira/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
+| [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
