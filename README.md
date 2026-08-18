@@ -107,6 +107,7 @@
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
+| [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +217,7 @@
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0390-elimination-game](https://github.com/sinendira/leetcode/tree/main/0390-elimination-game/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,6 +425,7 @@
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/sinendira/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
