@@ -281,6 +281,7 @@
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0344-reverse-string](https://github.com/sinendira/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sinendira/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +531,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/sinendira/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -630,6 +632,7 @@
 | [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
