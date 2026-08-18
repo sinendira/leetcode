@@ -191,6 +191,7 @@
 | [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0335-self-crossing](https://github.com/sinendira/leetcode/tree/main/0335-self-crossing/) | Hard |
 | [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0343-integer-break](https://github.com/sinendira/leetcode/tree/main/0343-integer-break/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -374,6 +375,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sinendira/leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/sinendira/leetcode/tree/main/0338-counting-bits/) | Easy |
+| [0343-integer-break](https://github.com/sinendira/leetcode/tree/main/0343-integer-break/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
