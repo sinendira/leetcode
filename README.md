@@ -295,6 +295,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
+| [0374-guess-number-higher-or-lower](https://github.com/sinendira/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -951,4 +952,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0372-super-pow](https://github.com/sinendira/leetcode/tree/main/0372-super-pow/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sinendira/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
