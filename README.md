@@ -210,6 +210,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0390-elimination-game](https://github.com/sinendira/leetcode/tree/main/0390-elimination-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@
 | [0206-reverse-linked-list](https://github.com/sinendira/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
+| [0390-elimination-game](https://github.com/sinendira/leetcode/tree/main/0390-elimination-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
