@@ -290,6 +290,7 @@
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sinendira/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -372,6 +373,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/sinendira/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/sinendira/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +415,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/sinendira/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
