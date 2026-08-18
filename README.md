@@ -105,6 +105,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+| [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/sinendira/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +213,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0390-elimination-game](https://github.com/sinendira/leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,6 +808,7 @@
 | ------- | ------- |
 | [0149-max-points-on-a-line](https://github.com/sinendira/leetcode/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0335-self-crossing](https://github.com/sinendira/leetcode/tree/main/0335-self-crossing/) | Hard |
+| [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1007,4 +1011,8 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 <!---LeetCode Topics End-->
