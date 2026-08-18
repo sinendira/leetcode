@@ -426,6 +426,7 @@
 | [0377-combination-sum-iv](https://github.com/sinendira/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +446,7 @@
 | [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -536,6 +538,7 @@
 | [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sinendira/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
+| [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -623,6 +626,7 @@
 | [0070-climbing-stairs](https://github.com/sinendira/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
+| [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
