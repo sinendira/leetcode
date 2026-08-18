@@ -263,6 +263,7 @@
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0344-reverse-string](https://github.com/sinendira/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/sinendira/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -340,6 +341,7 @@
 | [0202-happy-number](https://github.com/sinendira/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0344-reverse-string](https://github.com/sinendira/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/sinendira/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
