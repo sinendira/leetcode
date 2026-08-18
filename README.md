@@ -679,6 +679,7 @@
 | [0386-lexicographical-numbers](https://github.com/sinendira/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sinendira/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -716,6 +717,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sinendira/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -748,6 +750,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/sinendira/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sinendira/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/sinendira/leetcode/tree/main/0331-verify-preorder-serialization-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sinendira/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -781,6 +784,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/sinendira/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
