@@ -231,6 +231,7 @@
 | [0326-power-of-three](https://github.com/sinendira/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0390-elimination-game](https://github.com/sinendira/leetcode/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +293,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/sinendira/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -547,6 +549,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
+| [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
