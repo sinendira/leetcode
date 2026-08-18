@@ -106,6 +106,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0384-shuffle-an-array](https://github.com/sinendira/leetcode/tree/main/0384-shuffle-an-array/) | Medium |
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -525,6 +526,7 @@
 | [0338-counting-bits](https://github.com/sinendira/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/sinendira/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/sinendira/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
