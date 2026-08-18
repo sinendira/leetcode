@@ -148,6 +148,7 @@
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/sinendira/leetcode/tree/main/0381-insert-delete-getrandom-o1-duplicates-allowed/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/sinendira/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@
 | [0187-repeated-dna-sequences](https://github.com/sinendira/leetcode/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +346,7 @@
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0372-super-pow](https://github.com/sinendira/leetcode/tree/main/0372-super-pow/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
