@@ -99,6 +99,7 @@
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sinendira/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +391,7 @@
 | [0338-counting-bits](https://github.com/sinendira/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/sinendira/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -408,6 +410,7 @@
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0330-patching-array](https://github.com/sinendira/leetcode/tree/main/0330-patching-array/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
