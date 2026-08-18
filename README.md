@@ -303,6 +303,7 @@
 | [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +454,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -568,6 +570,7 @@
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
 | [0388-longest-absolute-file-path](https://github.com/sinendira/leetcode/tree/main/0388-longest-absolute-file-path/) | Medium |
 | [0394-decode-string](https://github.com/sinendira/leetcode/tree/main/0394-decode-string/) | Medium |
+| [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -607,6 +610,7 @@
 | [0042-trapping-rain-water](https://github.com/sinendira/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sinendira/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/sinendira/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
