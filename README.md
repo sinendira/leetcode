@@ -97,6 +97,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sinendira/leetcode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0335-self-crossing](https://github.com/sinendira/leetcode/tree/main/0335-self-crossing/) | Hard |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +134,7 @@
 | [0205-isomorphic-strings](https://github.com/sinendira/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0299-bulls-and-cows](https://github.com/sinendira/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +311,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sinendira/leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0327-count-of-range-sum](https://github.com/sinendira/leetcode/tree/main/0327-count-of-range-sum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +429,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -774,6 +778,7 @@
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/sinendira/leetcode/tree/main/0164-maximum-gap/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -787,6 +792,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/sinendira/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0299-bulls-and-cows](https://github.com/sinendira/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -869,11 +875,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sinendira/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/sinendira/leetcode/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
