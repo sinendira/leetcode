@@ -109,6 +109,7 @@
 | [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
+| [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -434,6 +435,7 @@
 | [0392-is-subsequence](https://github.com/sinendira/leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
