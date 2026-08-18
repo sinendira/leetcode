@@ -197,6 +197,7 @@
 | [0343-integer-break](https://github.com/sinendira/leetcode/tree/main/0343-integer-break/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/sinendira/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/sinendira/leetcode/tree/main/0372-super-pow/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +389,7 @@
 | [0198-house-robber](https://github.com/sinendira/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/sinendira/leetcode/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/sinendira/leetcode/tree/main/0343-integer-break/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -956,4 +958,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/sinendira/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 <!---LeetCode Topics End-->
