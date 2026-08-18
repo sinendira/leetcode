@@ -223,6 +223,7 @@
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0398-random-pick-index](https://github.com/sinendira/leetcode/tree/main/0398-random-pick-index/) | Medium |
 | [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -305,6 +306,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -551,6 +553,7 @@
 | [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0401-binary-watch](https://github.com/sinendira/leetcode/tree/main/0401-binary-watch/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
