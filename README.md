@@ -431,6 +431,7 @@
 | [0139-word-break](https://github.com/sinendira/leetcode/tree/main/0139-word-break/) | Medium |
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
+| [0386-lexicographical-numbers](https://github.com/sinendira/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -633,6 +634,7 @@
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0385-mini-parser](https://github.com/sinendira/leetcode/tree/main/0385-mini-parser/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/sinendira/leetcode/tree/main/0386-lexicographical-numbers/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
