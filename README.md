@@ -507,6 +507,7 @@
 | [0140-word-break-ii](https://github.com/sinendira/leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/sinendira/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0306-additive-number](https://github.com/sinendira/leetcode/tree/main/0306-additive-number/) | Medium |
+| [0401-binary-watch](https://github.com/sinendira/leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -545,6 +546,7 @@
 | [0371-sum-of-two-integers](https://github.com/sinendira/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0393-utf-8-validation](https://github.com/sinendira/leetcode/tree/main/0393-utf-8-validation/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
+| [0401-binary-watch](https://github.com/sinendira/leetcode/tree/main/0401-binary-watch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
