@@ -102,6 +102,7 @@
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/sinendira/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@
 | [0299-bulls-and-cows](https://github.com/sinendira/leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +203,7 @@
 | [0371-sum-of-two-integers](https://github.com/sinendira/leetcode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0372-super-pow](https://github.com/sinendira/leetcode/tree/main/0372-super-pow/) | Medium |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -767,6 +770,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0307-range-sum-query-mutable](https://github.com/sinendira/leetcode/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0341-flatten-nested-list-iterator](https://github.com/sinendira/leetcode/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -976,4 +980,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/sinendira/leetcode/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/sinendira/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
