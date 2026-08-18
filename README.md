@@ -98,6 +98,7 @@
 | [0335-self-crossing](https://github.com/sinendira/leetcode/tree/main/0335-self-crossing/) | Hard |
 | [0336-palindrome-pairs](https://github.com/sinendira/leetcode/tree/main/0336-palindrome-pairs/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sinendira/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -880,6 +881,7 @@
 | [0295-find-median-from-data-stream](https://github.com/sinendira/leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/sinendira/leetcode/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/sinendira/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
