@@ -111,6 +111,7 @@
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/sinendira/leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +602,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -790,6 +792,7 @@
 | [0310-minimum-height-trees](https://github.com/sinendira/leetcode/tree/main/0310-minimum-height-trees/) | Medium |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/sinendira/leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -969,6 +972,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sinendira/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
