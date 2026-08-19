@@ -155,6 +155,7 @@
 | [0391-perfect-rectangle](https://github.com/sinendira/leetcode/tree/main/0391-perfect-rectangle/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0398-random-pick-index](https://github.com/sinendira/leetcode/tree/main/0398-random-pick-index/) | Medium |
+| [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +310,7 @@
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -461,6 +463,7 @@
 | [0376-wiggle-subsequence](https://github.com/sinendira/leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
+| [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
