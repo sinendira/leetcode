@@ -112,6 +112,7 @@
 | [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0406-queue-reconstruction-by-height](https://github.com/sinendira/leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -341,6 +342,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/sinendira/leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +444,7 @@
 | [0396-rotate-function](https://github.com/sinendira/leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -464,6 +467,7 @@
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -966,6 +970,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sinendira/leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/sinendira/leetcode/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
