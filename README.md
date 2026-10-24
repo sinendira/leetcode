@@ -114,6 +114,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0414-third-maximum-number](https://github.com/sinendira/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -505,6 +506,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sinendira/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0406-queue-reconstruction-by-height](https://github.com/sinendira/leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
+| [0414-third-maximum-number](https://github.com/sinendira/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
