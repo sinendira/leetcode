@@ -228,6 +228,7 @@
 | [0398-random-pick-index](https://github.com/sinendira/leetcode/tree/main/0398-random-pick-index/) | Medium |
 | [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -312,6 +313,7 @@
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -635,6 +637,7 @@
 | [0059-spiral-matrix-ii](https://github.com/sinendira/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/sinendira/leetcode/tree/main/0068-text-justification/) | Hard |
+| [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
