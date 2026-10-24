@@ -113,6 +113,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/sinendira/leetcode/tree/main/0406-queue-reconstruction-by-height/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +325,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/sinendira/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/sinendira/leetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sinendira/leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +449,7 @@
 | [0397-integer-replacement](https://github.com/sinendira/leetcode/tree/main/0397-integer-replacement/) | Medium |
 | [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
