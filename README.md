@@ -321,6 +321,7 @@
 | [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0415-add-strings](https://github.com/sinendira/leetcode/tree/main/0415-add-strings/) | Easy |
+| [0420-strong-password-checker](https://github.com/sinendira/leetcode/tree/main/0420-strong-password-checker/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +481,7 @@
 | [0402-remove-k-digits](https://github.com/sinendira/leetcode/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0420-strong-password-checker](https://github.com/sinendira/leetcode/tree/main/0420-strong-password-checker/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1001,6 +1003,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sinendira/leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sinendira/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0407-trapping-rain-water-ii](https://github.com/sinendira/leetcode/tree/main/0407-trapping-rain-water-ii/) | Hard |
+| [0420-strong-password-checker](https://github.com/sinendira/leetcode/tree/main/0420-strong-password-checker/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
