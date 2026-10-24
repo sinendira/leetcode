@@ -231,6 +231,7 @@
 | [0400-nth-digit](https://github.com/sinendira/leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/sinendira/leetcode/tree/main/0415-add-strings/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -316,6 +317,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sinendira/leetcode/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/sinendira/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/sinendira/leetcode/tree/main/0415-add-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -643,6 +645,7 @@
 | [0067-add-binary](https://github.com/sinendira/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0068-text-justification](https://github.com/sinendira/leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/sinendira/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0415-add-strings](https://github.com/sinendira/leetcode/tree/main/0415-add-strings/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
