@@ -115,6 +115,7 @@
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0414-third-maximum-number](https://github.com/sinendira/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/sinendira/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +454,7 @@
 | [0403-frog-jump](https://github.com/sinendira/leetcode/tree/main/0403-frog-jump/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sinendira/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0413-arithmetic-slices](https://github.com/sinendira/leetcode/tree/main/0413-arithmetic-slices/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/sinendira/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1103,4 +1105,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/sinendira/leetcode/tree/main/0399-evaluate-division/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sinendira/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/sinendira/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
